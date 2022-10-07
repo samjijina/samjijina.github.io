@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Jijina's Website"
+title                    : "Sam Jijina"
 title_separator          : "-"
 name                     : &name "Sam Jijina"
 description              : &description "personal description"
