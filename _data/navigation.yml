@@ -2,7 +2,7 @@
 main:
   # - title: "Projects"
   #   url: /projects/
-  
+
   - title: "Publications"
     url: /publications/
     
@@ -10,8 +10,8 @@ main:
   - title: "Workshops and Demos"
     url: /workshops/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Full Resume/CV"
     url: /cv/

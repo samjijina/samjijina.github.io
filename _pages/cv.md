@@ -9,29 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://samjijina.github.io/files/CV_RESUME_Sam.pdf) for to download a PDF copy
+[Click here](https://samjijina.github.io/files/CV_RESUME_Sam.pdf) to download a PDF copy (Updated October 2022)
 
 Education
 ======
-* B.S. in Computer Science, Georgia Institute of Technology, 2020 (expected)
+* Doctor of Philosophy in Computer Science (Research Area: Computer Architecture), present
+* M.S in Computer Science with specialization in Systems (GPA 4.0), 2022
+* B.S. in Computer Science with High Honor, Georgia Institute of Technology, 2020
 * International Baccalaureate (IB Diploma), Aditya Birla World Academy, 2016
 
-Academic Achievements
+Awards
 ======
-* **Faculty Honors**: Fall 2018
-  * Received a Faculty Honors Award for a 4.0 GPA during the Fall 2018 academic semester
-* **Dean’s List**: Fall 2016, Fall 2017, Spring 2019, and Fall 2019
-  * Received a Dean’s List Award for a minimum of a 3.0 GPA in the listed academic semesters
+* 2nd Student Design Competition on Networked Computing on the Edge (CPS-IoT Week 2022): 2022
+  * Received the 2nd place award for our project “Mobility Patterns to Optimize Communication for Distributed Capture Processing Onboard Autonomous UAVs”
+* Outstanding Graduate Teaching Assistant Award: 2022
+  * Received the Outstanding Graduate Teaching Assistant Award in the College of Computing.
+* President’s Undergraduate Research Travel Award: 2020
+  * Received the PURA Travel Award to present a research prototype at the CogArch Workshop in the HPCA 2020 Symposium
 
 Research Experience
 ======
-* Fall 2019 : Undergraduate Research (Part-Time)
-  * High Performance Architecture Lab at Georgia Tech (HPArch)
-  * Worked as lead for Drone Team on High Performance Cognitive Drone project
-  * Please see [Research](https://samjijina.github.io/research) for details
-* Spring 2020 : Upcoming Undergraduate Research (Full-Time)
-  * High Performance Architecture Lab at Georgia Tech (HPArch)
-  * Please see [Research](https://samjijina.github.io/research) for details
+* High Performance Architecture Research Lab (HPArch@Georgia Tech) August 2019 – present<br>
+Researching under Dr. Hyesoon Kim<br>
+Current projects include investigating novel architectures and communication mediums for autonomous systems, developing
+FPGA platform framework to accelerate domain specific tasks.
+
+* Graduate Research Assistantship (GRA) August 2020 – present<br>
+Working under Dr. Hyesoon Kim at the Georgia Institute of Technology on various research projects.
+
+* CRNCH Rogues Gallery May 2021 – August 2021<br>
+Worked under Dr. Jeff Young at Rogues Gallery, part of Georgia Tech’s CRNCH, on building RISC-V BOOM for Xilinx FPGAs.
+
+
+Academia
+======
+* Mentor for Undergraduate Students May 2020 – present<br>
+Mentoring undergraduate students carrying out research in the field of computer architecture.
+* Graduate Teaching Assistantship (GTA), 3 semesters<br>
+Graduate TA for an undergraduate-level Processor Design class.
 
 Industry experience
 ======
@@ -44,18 +59,14 @@ Industry experience
   * Interned in CBRE’s joint-development project with CISCO for creating sustainable, intelligent buildings.
 Worked on IoT devices with intelligent communications mainframe to sync IoT devices to the central management system.
 
-Skills
+Certifications
 ======
-* **Programming Languages**: Java, C, C++, Python, HTML, CSS, JavaScript, Perl, x86 Assembly, Ruby, Verilog, VHDL
-* **Hardware**: Altera FPGA Boards, Raspberry Pi, Bread Board and Sensor Programming and Polling, Telemetry Communication, Hardware In-Loop Simulations
-* **Other Skills**: Git, CircuitSim, Wireshark, Intel Quartus Prime
-* **Subject Knowledge**: Processor Design, Computer Organization and Architecture, Networks, Operating Systems Design, Knowledge-Based Artificial Intelligence, Natural Language Processing, Linear Programming, Data Structures and Algorithms, Web Development, Agile Methodology
+* FAA-Certified Remote Pilot (sUAS Rating)<br>
+Certified by U.S. FAA to be a Remote Pilot in Command for UAS under Part 107 regulations.
 
-Activities and Leadership
+Activities & Orgs
 ======
-* Member of LUG@GT (Linux Users Group)
-* IEEE Active Member
-* Member of the Georgia Tech Astronomy Club
-* Hall council floor representative
-* Active volunteer in community service with the Trees Atlanta non-profit organization
-* Recreational soccer player, golfer and PC builder
+* IEEE Student Member (Membership Number 96494509)
+* IEEE Computer Society Member and TCCA Member
+* Amateur Astronomy
+* Recreational Sports: soccer, golf, and table tennis
