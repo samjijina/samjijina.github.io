@@ -25,7 +25,7 @@ author_profile: true
 
 *   <b>DynaaDCP: Dynamic Navigation of Autonomous Agents for Distributed Capture Processing</b><br>
     <b><i>Sam Jijina</i></b>, Ramyad Hadidi, Jun Chen, Zhen Jiang, Ashutosh Dhekne, Hyesoon Kim<br>
-    Fourth International Workshop on Domain Specific System Architecture (DOSSA-4)<br>
+    Fourth International Workshop on Domain Specific System Architecture (DOSSA-4) 2022<br>
     [[Link]](http://prism.sejong.ac.kr/dossa-4/)
 
 *   <b>Towards a General Purpose Cognitive Drone</b><br>
