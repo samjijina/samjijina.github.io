@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student studying computer science at the Georgia Institute of Technology since Fall 2016. My concentration is in Systems-Architecture and Intelligence. I am currently a senior graduating in Spring 2020 after which I plan on continuing my education by getting a master’s degree and eventually a PhD.
+
+I am a PhD student in Computer Science at Georgia Institute of Technology (Georgia Tech) and am being advised by Professor Hyesoon Kim of the HPArch Research Lab. My specilization is Computer Architecture with a special focus on architecting hardware designs to support IoT and autonomous applications.
 
 
-My research interests are in high-performance computer architecture, specifically, instruction level parallelism (ILP), simultaneous multithreading (SMT), tournament branch predictors, computer architecture optimizations for artificial intelligence, and GPGPU architecture.
+## More About Me
+
+I also obtained my M.S CS degree from Georgia Tech in May 2022 and have been involved in research since 2019. I have worked on several projects ranging from MacSim, a heterogenous timing simulator, to Vortex which is an open source RISC-V based GPGPU. The research problems which I find to be fundamental to the future of our field are post-Moore computing and Beyond CMOS technology.
 
 
-Currently, I work in the High-Performance Architecture Lab as an undergraduate student researcher. More information about my research can be found [here](https://samjijina.github.io/research).
+Outside of academia, my hobbies include amatuer astronomy, soccer, table tennis, and recreational golf.
 
 
-Outside of academia, my hobbies include playing golf, soccer, and building PC’s.
