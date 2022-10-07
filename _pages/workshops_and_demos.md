@@ -19,6 +19,7 @@ author_profile: true
 ## Workshops/Demos
 
 *   <b>Tutorial for Open-source RISC-V-based GPGPU: Vortex and Drone Applications on FPGA</b><br>
+    [Equal contribution from multiple authors]<br>
     MICRO 2022<br>
     [[Link]](https://vortex.cc.gatech.edu/micro2022/)
 
