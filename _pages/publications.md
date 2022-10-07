@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+### 2022
+* <b>Accelerating Graphic Rendering on Programmable RISC-V GPUs<b><br>
+    Blaise Tine, Varun Saxena, Santosh Srivatsan, Joshua R. Simpson, Fadi Alzammar, Liam Paul Cooper, <i>Sam Jijina</i>, Swetha Rajagoplan, Tejaswini Anand Kumar, Jeff Young, Hyesoon Kim<br>
+    Hot Chips Symposium (HCS) 2022
+    [[Paper]](https://doi.org/10.1109/HCS55958.2022.9895607)
+
+
 ### 2021
 
 * <b>Quantifying the Design-Space Tradeoffs in Autonomous Drones</b><br>
