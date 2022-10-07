@@ -14,7 +14,7 @@ I am a PhD student in Computer Science at Georgia Institute of Technology (Georg
 
 ## More About Me
 
-I also obtained my M.S CS degree from Georgia Tech in May 2022 and have been involved in research since 2019. I have worked on several projects ranging from MacSim, a heterogenous timing simulator, to Vortex which is an open source RISC-V based GPGPU. The research problems which I find to be fundamental to the future of our field are post-Moore computing and Beyond CMOS technology.
+I also obtained my M.S CS degree from Georgia Tech in May 2022 and have been involved in research since 2019. I have worked on several projects ranging from MacSim, a heterogenous timing simulator, to Vortex which is an open source RISC-V based GPGPU. The research problems which I find to be fundamental to the future of our field are post-Moore computing and Beyond-CMOS technology.
 
 
 Outside of academia, my hobbies include amatuer astronomy, soccer, table tennis, and recreational golf.
