@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Sam Jijina"
   avatar           : "profile.png"
-  bio              : "Enrolled PhD Student, Georgia Tech
-  MSCS 2022, Gerogia Tech"
+  bio              : "Enrolled PhD Student, Georgia Tech <br> MSCS 2022, Gerogia Tech"
   location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           :
